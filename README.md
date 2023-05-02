@@ -10,4 +10,4 @@ zby的学习笔记
 
 ## Miscellaneous
 1. <https://missing.csail.mit.edu/2020/> Git, Shell, Build Systems, Dependency management...
-
+2. 迟先生 https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei
